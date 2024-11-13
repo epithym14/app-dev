@@ -2,7 +2,7 @@
 My first repository.
 # My Favorite Series: *Arcane*
 
-My favorite series is **(https://www.netflix.com/title/81037866)** considering that it has *excellent animation and visuals.* 
+My favorite series is **[Arcane]** considering that it has *excellent animation and visuals.* 
 
 > Packed with emotional depth, the narrative skillfully combines action and lore to make it both captivating for **League** enthusiasts like me and approachable for those new to it.
 
